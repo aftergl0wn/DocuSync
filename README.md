@@ -1,16 +1,17 @@
-# Проект парсинга pep
+# Проект DocuSync
 Автор: Анастасия Давыдова  
+Парсер, который проверяет информацию с разных страниц сайта.  
 
 ### Как запустить проект:
 
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/aftergl0wn/bs4_parser_pep.git
+git clone https://github.com/aftergl0wn/DocuSync.git
 ```
 
 ```
-cd bs4_parser_pep
+cd DocuSync
 ```
 
 Cоздать и активировать виртуальное окружение:
